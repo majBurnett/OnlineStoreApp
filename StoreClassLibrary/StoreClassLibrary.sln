@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreClassLibrary", "StoreClassLibrary.csproj", "{3F91B22D-EE08-4B1A-9AFF-AC6D3131A4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStoreConsoleApp", "..\OnlineStoreConsoleApp\OnlineStoreConsoleApp.csproj", "{AC3B1FD9-781A-411A-B9C7-2CFD93C95366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F91B22D-EE08-4B1A-9AFF-AC6D3131A4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F91B22D-EE08-4B1A-9AFF-AC6D3131A4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F91B22D-EE08-4B1A-9AFF-AC6D3131A4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F91B22D-EE08-4B1A-9AFF-AC6D3131A4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3B1FD9-781A-411A-B9C7-2CFD93C95366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3B1FD9-781A-411A-B9C7-2CFD93C95366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3B1FD9-781A-411A-B9C7-2CFD93C95366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3B1FD9-781A-411A-B9C7-2CFD93C95366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284E549B-4AD0-4E70-A9AE-780DC9C67E4F}
+	EndGlobalSection
+EndGlobal
